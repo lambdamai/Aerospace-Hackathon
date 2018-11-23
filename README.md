@@ -1,10 +1,10 @@
 # Aerospace-Hackathon
 
 ## Задачи
-- [Геймификация в электронных каналах продаж. (задача от Utair)](https://github.com/lambdamai/aviahackathon/issues/1)
-- [Определения безопасного места для посадки беспилотника. (задача от Copter Express)](https://github.com/lambdamai/aviahackathon/issues/2)
-- [Стратегия взаимодействия контентного сайта и соцсетей. (задача от Авиатранспортное обозрение)](https://github.com/lambdamai/aviahackathon/issues/3)
-- [Matchmaking для вылетающих. (задача от ГОСНИИ ГА)](https://github.com/lambdamai/aviahackathon/issues/4)
-- [C-check обслуживание самолёта. (задача от МАИ)](https://github.com/lambdamai/aviahackathon/issues/5)
-- [Create a tool to track international rocket launch information. (the task from the MAI)](https://github.com/lambdamai/aviahackathon/issues/6)
+- [Морские судоходные маршрушры / Maritime Shipping Routes](https://github.com/lambdamai/aviahackathon/issues/1)
+- [«Зеленые» сервисы: помочь природе выжить / Green services: to help nature survive](https://github.com/lambdamai/aviahackathon/issues/2)
+- [Охотник за Астероидами / Fireballs' Hunter](https://github.com/lambdamai/aviahackathon/issues/3)
+- [Паркинг в мегаполисе / NYC PArking Tickets](https://github.com/lambdamai/aviahackathon/issues/4)
+- [Самолеты на спутниковых фотографиях / Planes in Satellite Imagery](https://github.com/lambdamai/aviahackathon/issues/5)
+- [А какой ты астронавт?/ AI forms a of an austronauts's command](https://github.com/lambdamai/aviahackathon/issues/6)
 
