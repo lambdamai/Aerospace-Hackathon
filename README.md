@@ -1,7 +1,7 @@
 # Aerospace-Hackathon
 
 ## Задачи
-- [Морские судоходные маршрушры / Maritime Shipping Routes](https://github.com/lambdamai/aviahackathon/issues/1)
+- [Морские судоходные маршрушры / Maritime Shipping Routes](https://github.com/HandsomeJaack/Aerospace-Hackathon/issues/1#issue-383852656)
 - [«Зеленые» сервисы: помочь природе выжить / Green services: to help nature survive](https://github.com/lambdamai/aviahackathon/issues/2)
 - [Охотник за Астероидами / Fireballs' Hunter](https://github.com/lambdamai/aviahackathon/issues/3)
 - [Паркинг в мегаполисе / NYC PArking Tickets](https://github.com/lambdamai/aviahackathon/issues/4)
